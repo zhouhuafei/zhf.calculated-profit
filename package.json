@@ -1,7 +1,7 @@
 {
-  "name": "npm-publish-ts",
+  "name": "zhf.calculated-profit",
   "version": "1.0.0",
-  "description": "npm-publish-ts",
+  "description": "zhf.calculated-profit",
   "main": "./dist/index.js",
   "files": [
     "dist"
@@ -24,15 +24,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhouhuafei/npm-publish-ts.git"
+    "url": "git+https://github.com/zhouhuafei/zhf.calculated-profit.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhouhuafei/npm-publish-ts/issues"
+    "url": "https://github.com/zhouhuafei/zhf.calculated-profit/issues"
   },
-  "homepage": "https://github.com/zhouhuafei/npm-publish-ts#readme",
+  "homepage": "https://github.com/zhouhuafei/zhf.calculated-profit#readme",
   "dependencies": {
     "zhf.sku": "^1.0.2"
   },
