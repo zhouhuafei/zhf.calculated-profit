@@ -1,6 +1,6 @@
 {
   "name": "npm-publish-ts",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "npm-publish-ts",
   "main": "./dist/index.js",
   "files": [
