@@ -1,7 +1,7 @@
 {
-  "name": "zhf.sleep",
-  "version": "1.0.0",
-  "description": "zhf.sleep",
+  "name": "zhf.calculated-profit",
+  "version": "1.0.1",
+  "description": "zhf.calculated-profit",
   "main": "./dist/index.js",
   "files": [
     "dist"
@@ -25,15 +25,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhouhuafei/zhf.sleep.git"
+    "url": "git+https://github.com/zhouhuafei/zhf.calculated-profit.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhouhuafei/zhf.sleep/issues"
+    "url": "https://github.com/zhouhuafei/zhf.calculated-profit/issues"
   },
-  "homepage": "https://github.com/zhouhuafei/zhf.sleep#readme",
+  "homepage": "https://github.com/zhouhuafei/zhf.calculated-profit#readme",
   "devDependencies": {
     "@babel/plugin-transform-typescript": "^7.16.8",
     "@babel/preset-env": "^7.16.11",
